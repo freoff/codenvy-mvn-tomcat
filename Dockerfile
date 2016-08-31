@@ -1,3 +1,3 @@
-FROM ubuntu_jdk8
+FROM codenvy/ubuntu_jdk8
 EXPOSE 33223
 ENV MVN_TOMCAT_PORT=33223
